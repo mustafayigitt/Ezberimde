@@ -1,0 +1,15 @@
+C:\Users\MUSTAFA\source\repos\Ezberimde\Ezberimde\bin\Debug\Ezberimde.exe.config
+C:\Users\MUSTAFA\source\repos\Ezberimde\Ezberimde\bin\Debug\Ezberimde.exe
+C:\Users\MUSTAFA\source\repos\Ezberimde\Ezberimde\bin\Debug\Ezberimde.pdb
+C:\Users\MUSTAFA\source\repos\Ezberimde\Ezberimde\obj\Debug\Ezberimde.csprojAssemblyReference.cache
+C:\Users\MUSTAFA\source\repos\Ezberimde\Ezberimde\obj\Debug\Ezberimde.FormAnaEkran.resources
+C:\Users\MUSTAFA\source\repos\Ezberimde\Ezberimde\obj\Debug\Ezberimde.Properties.Resources.resources
+C:\Users\MUSTAFA\source\repos\Ezberimde\Ezberimde\obj\Debug\Ezberimde.csproj.GenerateResource.cache
+C:\Users\MUSTAFA\source\repos\Ezberimde\Ezberimde\obj\Debug\Ezberimde.csproj.CoreCompileInputs.cache
+C:\Users\MUSTAFA\source\repos\Ezberimde\Ezberimde\obj\Debug\Ezberimde.exe
+C:\Users\MUSTAFA\source\repos\Ezberimde\Ezberimde\obj\Debug\Ezberimde.pdb
+C:\Users\MUSTAFA\source\repos\Ezberimde\Ezberimde\obj\Debug\Ezberimde.FormCalismaAlani.resources
+C:\Users\MUSTAFA\source\repos\Ezberimde\Ezberimde\obj\Debug\Ezberimde.FormKelimeler.resources
+C:\Users\MUSTAFA\source\repos\Ezberimde\Ezberimde\obj\Debug\Interop.SpeechLib.dll
+C:\Users\MUSTAFA\source\repos\Ezberimde\Ezberimde\obj\Debug\Ezberimde.csproj.ResolveComReference.cache
+C:\Users\MUSTAFA\source\repos\Ezberimde\Ezberimde\obj\Debug\Ezberimde.FormIstatistik.resources
